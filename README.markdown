@@ -38,8 +38,6 @@ The plugin converts a number from one weight to another. It is possible to speci
 
     from
     
-The Unit to convert from. Accepted units are:
-
 * lb - Pounds
 * g - Grams
 * kg - Kilograms
@@ -47,10 +45,10 @@ The Unit to convert from. Accepted units are:
 * st - Stones
 * short_ton - Short Ton (UK)
 * long_ton - Long Ton (US)
+
+The Unit to convert from. Use syntax as above eg for stone use "st":
 
     to
-    
-The Unit to convert to. Accepted units are:
 
 * lb - Pounds
 * g - Grams
@@ -59,6 +57,8 @@ The Unit to convert to. Accepted units are:
 * st - Stones
 * short_ton - Short Ton (UK)
 * long_ton - Long Ton (US)
+
+The Unit to convert to. Use syntax as above eg for stone use "st":
 
     decimals
   
