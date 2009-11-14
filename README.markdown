@@ -12,7 +12,7 @@
 
 Weight Converter is free for personal and commercial use. 
 
-If you use it commercially use a donation of $10 is suggested. You can send [donations here](http://pledgie.com/campaigns/6976). 
+If you use it commercially a donation of $10 is suggested. You can send [donations here](http://pledgie.com/campaigns/6994). 
 
 Weight Converter is licensed under a [Open Source Initiative - BSD License][] license.
 
