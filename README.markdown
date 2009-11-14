@@ -32,7 +32,7 @@ Converts a number from one weight to another
 
 The plugin converts a number from one weight to another. It is possible to specify the number of decimals, the decimal separator and the thousands separator.
 
-    {exp:unit_converter from="kg" to="lb"}1.345{/exp:unit_converter}
+    {exp:weight_converter from="kg" to="lb"}1.345{/exp:weight_converter}
 	
 ## Parameters
 
@@ -77,11 +77,11 @@ The character to use for thousands separator. Default: SPACE
 
 Convert from kg to lbs
 
-    {exp:unit_converter from="kg" to="lb"}2.1234{/exp:unit_converter}
+    {exp:weight_converter from="kg" to="lb"}2.1234{/exp:weight_converter}
     
 Convert from g to st with one decimal place
 
-    {exp:unit_converter from="kg" to="lb" decimals="1"}2.1234{/exp:unit_converter}
+    {exp:weight_converter from="kg" to="lb" decimals="1"}2.1234{/exp:weight_converter}
 
 [George Ornbo]: http://shapeshed.com/
 [Github]: http://github.com/shapeshed/weight_converter.ee_addon
