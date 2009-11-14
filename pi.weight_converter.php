@@ -363,7 +363,7 @@ function usage()
 {
 ob_start(); 
 ?>
-Documentation is available here http://shapeshed.github.com/expressionengine/plugins/file_oracle.html
+Documentation is available here http://shapeshed.github.com/expressionengine/plugins/file_oracle/
 
 <?php
 $buffer = ob_get_contents();
