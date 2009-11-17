@@ -11,7 +11,7 @@
  * 
  * @category   Plugins
  * @package    Weight Converter
- * @version    0.1.0
+ * @version    1.0.0
  * @since      0.1.0
  * @author     George Ornbo <george@shapeshed.com>
  * @see        {@link http://github.com/shapeshed/unit_converter.git/} 
@@ -24,7 +24,7 @@
 */
 $plugin_info = array(
 						'pi_name'			=> 'Weight Converter',
-						'pi_version'		=> '0.1.0',
+						'pi_version'		=> '1.0.0',
 						'pi_author'			=> 'George Ornbo',
 						'pi_author_url'		=> 'http://shapeshed.com/',
 						'pi_description'	=> 'Converts a number from one weight to another',
