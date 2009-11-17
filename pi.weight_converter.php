@@ -353,25 +353,15 @@ class Weight_converter{
     return $this->converted_unit; 	
   }
 
-	/**
-	* Plugin usage documentation
-	*
-	* @return	string Plugin usage instructions
-	*/
-
-function usage()
-{
-ob_start(); 
-?>
-Documentation is available here http://shapeshed.github.com/expressionengine/plugins/file_oracle/
-
-<?php
-$buffer = ob_get_contents();
-
-ob_end_clean(); 
-
-return $buffer;
-}
+  /**
+  * Plugin usage documentation
+  *
+  * @return	string Plugin usage instructions
+  */
+  public function usage()
+  {
+    return "Documentation is available here http://shapeshed.github.com/expressionengine/plugins/weight_converter/";
+  }
 	
 }
 
