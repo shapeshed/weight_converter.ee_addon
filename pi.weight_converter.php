@@ -7,14 +7,14 @@
  * ExpressionEngine by EllisLab is copyrighted software
  * The licence agreement is available here http://expressionengine.com/docs/license.html
  * 
- * File Oracle
+ * Weight Converter
  * 
  * @category   Plugins
  * @package    Weight Converter
  * @version    1.0.0
  * @since      0.1.0
  * @author     George Ornbo <george@shapeshed.com>
- * @see        {@link http://github.com/shapeshed/unit_converter.git/} 
+ * @see        {@link http://github.com/shapeshed/weight_converter.git/} 
  * @license    {@link http://opensource.org/licenses/bsd-license.php} 
  */
 
@@ -62,7 +62,7 @@ class Weight_converter{
 	* ExpressionEngine needs this as it is PHP4 based so doesn't get __construct()
 	* @access public
 	*/
-	public function Unit_converter()
+	public function Weight_converter()
 	{
 		$this->__construct();
 	}
