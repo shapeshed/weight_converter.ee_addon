@@ -37,7 +37,7 @@ class Weight_converter{
 	* XML File for NSM Add On Updater
 	* @var string
 	*/
-	public $versions_xml = "http://github.com/shapeshed/weight_converter.ee_addon/raw/master/expressionengine/system/third_party/weight_converter/versions.xml";
+	public $versions_xml = "http://github.com/shapeshed/weight_converter.ee_addon/raw/master/system/expressionengine/third_party/weight_converter/versions.xml";
 
 	/**
 	* The units that can be converted using this class
