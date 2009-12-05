@@ -5,6 +5,19 @@
 		<link>http://github.com/shapeshed/weight_converter.ee_addon/versions.xml</link>
 		<description>Most recent changes with links to updates.</description>
 		<item>
+			<title>Version 2.0.1</title>
+			<ee_addon:version>2.0.1</ee_addon:version>
+			<link>http://github.com/shapeshed/weight_converter.ee_addon</link>
+			<pubDate>Sat, 5 Dec 2009 17:04:18 +0000</pubDate>
+			<description><![CDATA[
+				<ul>
+					<li>adding support for NSM Add-on updater</li>
+				</ul>
+			]]>
+			</description>
+			<enclosure url="http://github.com/shapeshed/weight_converter.ee_addon/zipball/2.0.1" length="4225" type="application/zip" />
+		 </item>
+		<item>
 			<title>Version 2.0.0</title>
 			<ee_addon:version>2.0.0</ee_addon:version>
 			<link>http://github.com/shapeshed/weight_converter.ee_addon</link>
