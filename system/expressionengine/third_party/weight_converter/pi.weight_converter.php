@@ -11,7 +11,7 @@
  * 
  * @category   Plugins
  * @package    Weight Converter
- * @version    1.0.0
+ * @version    2.0.1
  * @since      0.1.0
  * @author     George Ornbo <george@shapeshed.com>
  * @see        {@link http://github.com/shapeshed/weight_converter.git/} 
@@ -24,7 +24,7 @@
 */
 $plugin_info = array(
 						'pi_name'			=> 'Weight Converter',
-						'pi_version'		=> '1.0.0',
+						'pi_version'		=> '2.0.1',
 						'pi_author'			=> 'George Ornbo',
 						'pi_author_url'		=> 'http://shapeshed.com/',
 						'pi_description'	=> 'Converts a number from one weight to another',
@@ -32,7 +32,13 @@ $plugin_info = array(
 					);
 
 class Weight_converter{
-	
+
+	/**
+	* XML File for NSM Add On Updater
+	* @var string
+	*/
+	public $versions_xml = "http://github.com/shapeshed/weight_converter.ee_addon/raw/master/expressionengine/system/third_party/weight_converter/versions.xml";
+
 	/**
 	* The units that can be converted using this class
 	* @see __construct

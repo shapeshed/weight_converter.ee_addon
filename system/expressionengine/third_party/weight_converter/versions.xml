@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:ee_addon="http://newism.com.au/nsm_addon_updater/#rss-xml">
+	<channel>
+		<title>NSM Addon Updater Changelog</title>
+		<link>http://github.com/shapeshed/weight_converter.ee_addon/versions.xml</link>
+		<description>Most recent changes with links to updates.</description>
+		<item>
+			<title>Version 2.0.0</title>
+			<ee_addon:version>2.0.0</ee_addon:version>
+			<link>http://github.com/shapeshed/weight_converter.ee_addon</link>
+			<pubDate>Tue, 17 Nov 2009 17:54:24 +0000</pubDate>
+			<description><![CDATA[
+				<ul>
+					<li>EE 2.0 release</li>
+				</ul>
+			]]>
+			</description>
+			<enclosure url="http://github.com/shapeshed/weight_converter.ee_addon/zipball/2.0.0" length="4,225" type="application/zip" />
+		 </item>
+	</channel>
+</rss>
